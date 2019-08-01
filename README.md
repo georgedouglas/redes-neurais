@@ -25,6 +25,6 @@ A imagem acima demonstra uma representação gráfica de como é uma rede neural
 As redes neurais artificiais podem ser usadas em diversas áreas, com classificação (classificar uma entrada dada através de vários dados de treino), predição (para "prever"; produzir uma saída através do dado de entrada) e clustering (organização), usada para identificar uma característica única em um dado e classificá-la em diferentes categorias.
 
 ![foto de dentro do Tesla e o que ele vê](https://www.teslarati.com/wp-content/uploads/2016/11/Tesla-autonomous-self-driving-vision-sensors.jpg)
-*Sensores de visão de um carro autônomo da Tesla*
+*Sensores de visão de um carro autônomo da Tesla, usando redes neurais convolucionais (CNN / Convolutional Neural network) para detecção de objetos.*
 
 Na realidade, podem ser usadas em sistemas diferentes, como no comércio (recomendação de produto através de escolhas de usuário), na medicina (reconhecimento de doenças), nos automóveis (carros autônomos) etc.
