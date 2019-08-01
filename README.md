@@ -20,7 +20,7 @@ Redes neurais artificiais são técnicas computacionais baseados em redes neurai
 
 A imagem acima demonstra uma representação gráfica de como é uma rede neural artificial (RNA) profunda (por ter mais de uma camada), também chamada de Deep Learning. A arquitetura da rede acima é chamada de FeedForward (cada camada se conecta à próxima camada, porém não há caminho de volta, ou seja, as camadas têm a mesma direção, à saída), com camada de entrada conectada (os "links" podem ser chamados de pesos) à camadas ocultas (não é nem entrada nem saída; também chamadas de camadas intermediárias) e estas conectadas à camada de saída.
 
-## Usos de uma rede neural
+## Aplicações das redes neurais artificiais
 
 As redes neurais artificiais podem ser usadas em diversas áreas, com classificação (classificar uma entrada dada através de vários dados de treino), predição (para "prever"; produzir uma saída através do dado de entrada) e clustering (organização), usada para identificar uma característica única em um dado e classificá-la em diferentes categorias.
 
