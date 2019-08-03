@@ -5,8 +5,6 @@ Hoje vamos ver como criar um bot básico em Python, para facilitarmos esse proce
 Mas o que é "Chatterbot"?  
 > O ChatterBot é uma biblioteca Python que facilita a geração de respostas automatizadas para a entrada de um usuário. O ChatterBot usa uma seleção de algoritmos de aprendizado de máquina para produzir diferentes tipos de respostas. Isso facilita para os desenvolvedores criar bots de bate-papo e automatizar conversas com usuários. Para obter mais detalhes sobre as idéias e conceitos por trás do ChatterBot, consulte o [fluxograma](https://chatterbot.readthedocs.io/en/stable/#process-flow-diagram) do processo.  
 >Exemplo básico de entrada típica seria algo assim:
->Um exemplo de entrada típica seria algo assim:
-
 ```
 user: Good morning! How are you doing?
 bot:  I am doing very well, thank you for asking.
