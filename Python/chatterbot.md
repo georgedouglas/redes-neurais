@@ -118,7 +118,7 @@ $ python3 bot.py
 Porque, bem, faremos isso em futuras postagens, não sei se você, leitor, sabe, mas pequenos tutoriais como esse que você acabou de consumir levam um considerável tempo para serem feitos!  
 E eu acho melhor partir o conteúdo para que o aprendizado não fique maçante!
 
-Prometo trazer mais!
+**Prometo trazer mais!**
 
 - Escrito por: Kurono
 - Revisão e correção: Sam Marx
