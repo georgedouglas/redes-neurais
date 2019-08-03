@@ -120,5 +120,5 @@ E eu acho melhor partir o conteúdo para que o aprendizado não fique maçante!
 
 **Prometo trazer mais!**
 
-- Escrito por: Kurono
-- Revisão e correção: Sam Marx
+- Escrito por: [Kurono](t.me/kuroninh0)
+- Revisão e correção: [Sam Marx](t.me/SamMarx)
