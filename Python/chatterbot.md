@@ -27,7 +27,7 @@ Versão de **desenvolvimento** do ChatterBot:
 ```
 pip install git+git://github.com/gunthercox/ChatterBot.git@master
 ```
-####Verificando a versão do ChatterBot que você instalou:   
+#### Verificando a versão do ChatterBot que você instalou:   
 Se você já possuir o ChatterBot instalado e quiser verificar qual versão está instalada, execute o seguinte comando.
 ```
 python -m chatterbot --version
