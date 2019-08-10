@@ -103,9 +103,8 @@ O neurônio matemático pode conter o bias, -![\theta](https://latex.codecogs.co
    <img width="600" height="279" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sadssa.png" />
 </p>
 
-É assim que o neurônio matemático simula um neurônio biológico e é assim que começa nosso estudo por esse ramo da IA. O neurônio é a unidade básica de tudo que vamos ver pela frente, desde as redes Perceptron e Adaline (que serão nossos próximos objetos de estudo) à Redes Neurais mais complexas, como aS Redes Recorrentes, as Redes Convolucionais e a famosas Deep Learning. Além dessas redes básicas, veremos como é o aprendizado de uma rede neural, a partir do algoritmo mais simples de correção de erros e uma amostra da limitação dessas arquiteturas iniciais.
+É assim que o neurônio matemático simula um neurônio biológico e é assim que começa nosso estudo por esse ramo da IA. O neurônio é a unidade básica de tudo que vamos ver pela frente, desde as redes Perceptron e Adaline (que serão nossos próximos objetos de estudo) à Redes Neurais mais complexas, como as Redes Recorrentes, as Redes Convolucionais e a famosas Deep Learning. Além dessas redes básicas, veremos como é o aprendizado de uma rede neural, a partir do algoritmo mais simples de correção de erros e uma amostra da limitação dessas arquiteturas iniciais.
 
 Então até mais!!! :wave::wave:
 
 ---
-
