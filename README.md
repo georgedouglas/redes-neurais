@@ -25,7 +25,7 @@ Grupo no Telegram: [Clique aqui](https://t.me/abhackerspace)
       - [O Neurônio Matemático](https://github.com/Sam-Marx/redes-neurais#o-neur%C3%B4nio-matem%C3%A1tico)
 
 - Aprendizado de máquina
-   - [Tipos de sistemas do aprendizado de máquina - parte um](https://github.com/Sam-Marx/redes-neurais/blob/master/sistemas_de_aprendizado.md)
+   - [Tipos de sistemas do aprendizado de máquina - parte um](https://github.com/Sam-Marx/redes-neurais/blob/master/tutoriais/sistemas_de_aprendizado_parte1.md)
 
 ---
 
