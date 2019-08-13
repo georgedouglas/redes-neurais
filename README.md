@@ -91,20 +91,18 @@ Após isso o neurônio passa por uma função de ativação, que irá definir a 
 
 Se o conjunto de entradas, após ponderadas e somadas, ultrapassarem um certo limiar, a  função de ativação gera como saída 1, caso contrário 0. Como podemos ver, a função de ativação tem papel fundamental na saída do neurônio e muitas delas já foram proposta na literatura, hoje falarei das três mais simples, mas em artigos futuros vamos nos aprofundar em outras funções de ativações.
 
-A função linear (a) retorna apenas o valor de *u* (não se esqueça!!!, *u* é o soma de todas entradas ponderadas pelos seus respectivos pesos sinápticos). A função limiar (b) é a função em que o limiar (threshold) irá definir a saída da função. Quando a soma das entradas ultrapassa esse limiar, o resultado é igual a 1 e o neurônio é ativado. Quanto maior o limiar, mais difícil será para o neurônio ser ativo. Por último, a função sigmoidal (c) representa uma aproximação contínua e diferencial da função limiar.
+A função linear (a) retorna apenas o valor de *u* (*u* é o soma de todas entradas ponderadas pelos seus respectivos pesos sinápticos). A função limiar (b) é a função em que o limiar (threshold) irá definir a saída da função. Quando a soma das entradas ultrapassa esse limiar, o resultado é igual a 1 e o neurônio é ativado. Quanto maior o limiar, mais difícil será para o neurônio ser ativo. Por último, a função sigmoidal (c) representa uma aproximação contínua e diferencial da função limiar.
 
 <p align="center">
    <img width="600" height="179" src="https://imu.gr/images/2019/08/10/fucntions.md.png" />
 </p>
 
-O neurônio matemático pode conter o bias, -![\theta](https://latex.codecogs.com/svg.latex?\theta) representado na figura abaixo, que é incluído ao somatório das entradas com o intuito de aumentar o grau de liberdade da função de ativação e a capacidade de aproximação da rede. O valor do bias, assim como os dos pesos sinápticos é ajustado durante o aprendizado do neurônio (cenas dos próximos capítulos) e ele possibilita que um neurônio apresente uma saída não nula mesmo se todas as suas entradas forem nulas. Sem isso não seria possível fazer com que o neurônio aprendesse o “ou exclusivo” (![\oplus](https://latex.codecogs.com/svg.latex?\oplus)), algo que mudou o rumo das pesquisas em Rede Neural, mas vamos falar sobre isso depois .
+O neurônio matemático pode conter o bias (tendência), -![\theta](https://latex.codecogs.com/svg.latex?\theta) representado na figura abaixo, que é incluído ao somatório das entradas com o intuito de aumentar o grau de liberdade da função de ativação e a capacidade de aproximação da rede. O valor do bias, assim como os dos pesos sinápticos é ajustado durante o aprendizado do neurônio (cenas dos próximos capítulos) e ele possibilita que um neurônio apresente uma saída não nula mesmo se todas as suas entradas forem nulas. Sem isso não seria possível fazer com que o neurônio aprendesse o “ou exclusivo” (![\oplus](https://latex.codecogs.com/svg.latex?\oplus)), algo que mudou o rumo das pesquisas em Rede Neural, mas vamos falar sobre isso depois .
 
 <p align="center">
    <img width="600" height="279" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sadssa.png" />
 </p>
 
 É assim que o neurônio matemático simula um neurônio biológico e é assim que começa nosso estudo por esse ramo da IA. O neurônio é a unidade básica de tudo que vamos ver pela frente, desde as redes Perceptron e Adaline (que serão nossos próximos objetos de estudo) à Redes Neurais mais complexas, como as Redes Recorrentes, as Redes Convolucionais e a famosas Deep Learning. Além dessas redes básicas, veremos como é o aprendizado de uma rede neural, a partir do algoritmo mais simples de correção de erros e uma amostra da limitação dessas arquiteturas iniciais.
-
-Então até mais!!! :wave::wave:
 
 ---
