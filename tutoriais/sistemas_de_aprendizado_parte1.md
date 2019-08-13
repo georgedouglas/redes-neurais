@@ -71,7 +71,7 @@ Exemplos: O Victor Dias é um  mestre no aprendizado por reforços, você pode v
 
 
 ### Parte 2 em breve! 
-Ei, que tal participar do nosso grupo no Telegram?
+Ei, que tal participar do nosso grupo no Telegram?  
 Fontes usadas para a criação desse tutorial:  
 Wikipedia  
 Aprendizado de Máquina com Scikit-learn & Tensorflow, do Aurélien Géron  
