@@ -6,7 +6,8 @@ By [Kurono](https://github.com/kuroninho), [Sam](https://github.com/Sam-Marx) an
 ㅤㅤ  
 
 Acervo no Telegram: [Clique aqui](https://t.me/AcervoDoSam)
-Grupo no TElegram: [Clique aqui](https://t.me/abhackerspace)
+
+Grupo no Telegram: [Clique aqui](https://t.me/abhackerspace)
 
 * Data prevista para postagens:  
     * Sexta
