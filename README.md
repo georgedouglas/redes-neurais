@@ -19,7 +19,7 @@ Grupo no Telegram: [Clique aqui](https://t.me/abhackerspace)
 - Redes Neurais
    - [Introdução](#introdução)
       - [O que é uma Rede Neural Artificial](#o-que-é-uma-rede-neural-artificial)
-      - [Aplicações das Redes Neurais Artificiais](aplicações-das-redes-neurais-artificiais)
+      - [Aplicações das Redes Neurais Artificiais](https://github.com/Sam-Marx/redes-neurais#aplica%C3%A7%C3%B5es-das-redes-neurais-artificiais)
    - [O Início de Tudo](#o-início-de-tudo)
       - [O Neurônio Biológico](#o-neurônio-biológico)
       - [O Neurônio Matemático](#o-neurônio-matemático)
