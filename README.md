@@ -24,6 +24,9 @@ Grupo no Telegram: [Clique aqui](https://t.me/abhackerspace)
       - [O Neurônio Biológico](#o-neurônio-biológico)
       - [O Neurônio Matemático](#o-neurônio-matemático)
 
+- Aprendizado de máquina
+   - [Tipos de sistemas do aprendizado de máquina - parte um](https://github.com/Sam-Marx/redes-neurais/blob/master/sistemas_de_aprendizado.md)
+
 ---
 
 ## Introdução
