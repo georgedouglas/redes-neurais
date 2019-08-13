@@ -2,9 +2,9 @@
 ![](https://www.wrprates.com/wp-content/uploads/2018/09/o-que-e-machine-learning.jpg)
 Parte 1/2
 
-Existem diferentes tipos de sistema de aprendizado de máquinas, iremos classifica-las com base em algumas características:  
+Existem diferentes tipos de sistema de aprendizado de máquinas, iremos classificá-las com base em algumas características:  
 * Se são treinadas com supervisão ou sem supervisão (Será explicado mais a frente.)
-* Se podem aprender continuarmente de forma incremental ou não.
+* Se podem aprender continuamente de forma incremental ou não.
 
 Esses critérios não são exclusivos e podem ser usados em conjunto, como um filtro de spam que faz o uso do aprendizado online e o de modelos.  
 Iremos falar apenas dos principais/mais usados sistemas atualmente.
@@ -37,7 +37,7 @@ Exemplo: Prever se a chuva irá ocorrer ou não
 No aprendizado não supervisionado os dados não são rotulados. O sistema aprende sem saber qual o resultado esperado.
 
 * **Clustering** 
-    - Na verdade o Clusteringé um conjunto de técnicas que visa fazer agrupamentos automáticos de acordo com seu grau de semelhança.  
+    - Na verdade o Clustering é um conjunto de técnicas que visa fazer agrupamentos automáticos de acordo com seu grau de semelhança.  
     Exemplos: K-means, Clustering Hierárquico [HCA, do inglês] e Maximização de Expectativa.  
     ![](https://i.imgur.com/S65Sk9c.jpg)
     
