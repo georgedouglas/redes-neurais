@@ -17,12 +17,12 @@ Grupo no Telegram: [Clique aqui](https://t.me/abhackerspace)
 ---
 
 - Redes Neurais
-   - [Introdução](#introdução)
-      - [O que é uma Rede Neural Artificial](#o-que-é-uma-rede-neural-artificial)
+   - [Introdução](https://github.com/Sam-Marx/redes-neurais#introdu%C3%A7%C3%A3o)
+      - [O que é uma Rede Neural Artificial](https://github.com/Sam-Marx/redes-neurais#o-que-%C3%A9-uma-rede-neural-artificial)
       - [Aplicações das Redes Neurais Artificiais](https://github.com/Sam-Marx/redes-neurais#aplica%C3%A7%C3%B5es-das-redes-neurais-artificiais)
-   - [O Início de Tudo](#o-início-de-tudo)
-      - [O Neurônio Biológico](#o-neurônio-biológico)
-      - [O Neurônio Matemático](#o-neurônio-matemático)
+   - [O Início de Tudo](https://github.com/Sam-Marx/redes-neurais#o-in%C3%ADcio-de-tudo)
+      - [O Neurônio Biológico](https://github.com/Sam-Marx/redes-neurais#o-neur%C3%B4nio-biol%C3%B3gico)
+      - [O Neurônio Matemático](https://github.com/Sam-Marx/redes-neurais#o-neur%C3%B4nio-matem%C3%A1tico)
 
 - Aprendizado de máquina
    - [Tipos de sistemas do aprendizado de máquina - parte um](https://github.com/Sam-Marx/redes-neurais/blob/master/sistemas_de_aprendizado.md)
