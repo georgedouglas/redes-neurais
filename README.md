@@ -12,7 +12,7 @@ Grupo no Telegram: [Clique aqui](https://t.me/abhackerspace)
 * Data prevista para postagens:  
     * Sexta
     * Sábado
-    * Quando estivermos a fim
+    * Assim que possível
     
 ---
 
