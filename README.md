@@ -27,6 +27,8 @@ Grupo no Telegram: [Clique aqui](https://t.me/abhackerspace)
 - Aprendizado de máquina
    - [Tipos de sistemas do aprendizado de máquina - parte um](https://github.com/Sam-Marx/redes-neurais/blob/master/tutoriais/sistemas_de_aprendizado_parte1.md)
 
+- Outros
+   - [Conteúdo recomendado](https://github.com/Sam-Marx/redes-neurais/blob/master/recomendados.md#conteúdos-recomendados)
 ---
 
 ## Introdução
