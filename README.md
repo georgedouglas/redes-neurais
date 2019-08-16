@@ -54,7 +54,7 @@ Na realidade, podem ser usadas em sistemas diferentes, como no comércio (recome
 
 ## O Início de Tudo
 
-Na tentativa de criar sistemas inteligentes, uma ideia que vem quase que instantâneamente às nossas cabeças é a de simular o sistema mais rápido e mais potente que conhecemos hoje em dia em máquinas, o cérebro humano. A rede neural, é um ramo do aprendizado de máquina que tenta simular o comportamento do cérebro humano, usando para isso conceitos da álgebra linear, da estatística, do cálculo e da biologia.
+Na tentativa de criar sistemas inteligentes, uma ideia que vem quase que instantaneamente às nossas cabeças é a de simular o sistema mais rápido e mais potente que conhecemos hoje em dia em máquinas, o cérebro humano. A rede neural, é um ramo do aprendizado de máquina que tenta simular o comportamento do cérebro humano, usando para isso conceitos da álgebra linear, da estatística, do cálculo e da biologia.
 
 Por mais que isso possa assustar de primeira, CALMA!!! Sempre que tento aprender algo que parece extremamente complexo, a abordagem que sigo é a de sempre ir no fundamento da coisa, o famoso “começar do começo”, e é isso que você está fazendo agora, conhecendo o início de uma base de conceitos que irá lhe ajudar a entender melhor as Redes Neurais Artificiais.
 
