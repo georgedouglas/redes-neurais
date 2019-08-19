@@ -43,7 +43,28 @@ A imagem acima demonstra uma representação gráfica de como é uma rede neural
 
 ### Aplicações das Redes Neurais Artificiais
 
-As redes neurais artificiais podem ser usadas em diversas áreas, com classificação (classificar uma entrada dada através de vários dados de treino), predição (para "prever"; produzir uma saída através do dado de entrada) e clustering (organização), usada para identificar uma característica única em um dado e classificá-la em diferentes categorias.
+As redes neurais artificiais podem ser usadas em diversas áreas, com **classificação**, **predição** e **clustering**.
+
+1. **Classificação**:
+   Técnica para categorizar os dados em um número desejado e distinto de classes, onde é possível atribuir um rótulo a cada classe.
+   
+   Exemplo: reconhecimento de voz.
+   
+   Tipo de rede normalmente usada: FeedForward.
+
+2. **Predição**:
+   Refere-se à saída de um algoritmo depois de ter sido treinado em um conjunto de dados histórico e aplicado em novos dados, a fim de "prever" o resultado através dos dados treinados.
+
+   Exemplo: recomendação de produtos ou filmes.
+   
+   Tipo de rede normalmente usada: FeedForward.
+
+3. **Clustering**:
+   É o conjunto de técnicas de data mining (prospecção de dados) que visa fazer agrupamentos automáticos de dados segundo o seu grau de semelhança.
+   
+   Exemplo: pode ser usado para classificação entre diferentes espécies de plantas e animais.
+   
+   Tipo de rede normalmente usada: rede Hemming; Maxnet; redes competitivas.
 
 ![foto de dentro do Tesla e o que ele vê](https://www.teslarati.com/wp-content/uploads/2016/11/Tesla-autonomous-self-driving-vision-sensors.jpg)
 *Sensores de visão de um carro autônomo da Tesla, usando redes neurais convolucionais (CNN / Convolutional Neural network) para detecção de objetos.*
